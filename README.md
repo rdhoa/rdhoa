@@ -1,14 +1,14 @@
 # My name is Rdho <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50" align="center">  
-<img align='right' src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="150">
+
 =======================
 
-## Backend Developer
+## Backend Developer <img align='right' src="https://media.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif" width="150">
 -----------------
 
 I have been dealing with the Frontend Developer part for about 1.5-2 years and I have been developing projects.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [rdhoansori@gmail.com](mailto:rdhoansori@gmail.com)
+* ✉️  You can contact me at [rdhoansori@gmail.com](mailto:rdhoansori@gmail.com) or phone
 * 🧠  I'm learning JS Frameworks
 
 ### Skills
