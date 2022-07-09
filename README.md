@@ -8,7 +8,7 @@
 I have been dealing with the Frontend Developer part for about 1.5-2 years and I have been developing projects.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [rdhoansori@gmail.com](mailto:rdhoansori@gmail.com) or phone
+* ✉️  You can contact me at [rdhoansori@gmail.com](mailto:rdhoansori@gmail.com) or phone https://wa.me/6282182225161
 * 🧠  I'm learning JS Frameworks
 
 ### Skills
